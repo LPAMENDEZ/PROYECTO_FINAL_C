@@ -1,0 +1,15 @@
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\bin\Debug\net10.0\menuNavegacion.exe
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\bin\Debug\net10.0\menuNavegacion.deps.json
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\bin\Debug\net10.0\menuNavegacion.runtimeconfig.json
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\bin\Debug\net10.0\menuNavegacion.dll
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\bin\Debug\net10.0\menuNavegacion.pdb
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.AssemblyInfoInputs.cache
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.AssemblyInfo.cs
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.csproj.CoreCompileInputs.cache
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.sourcelink.json
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.dll
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\refint\menuNavegacion.dll
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.pdb
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\menuNavegacion.genruntimeconfig.cache
+C:\Users\panes\OneDrive\Desktop\FINAL_PROYECTO_C\menuNavegacion\obj\Debug\net10.0\ref\menuNavegacion.dll
